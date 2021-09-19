@@ -37,11 +37,11 @@ python main.py
 
 ## Работа с приложением
 
-![PIC_1](https://github.com/eugenepriymak/LAB_Graphs/tree/dev/README/pictures/1_not_created.jpg)
+![PIC_1](https://github.com/eugenepriymak/LAB_Graphs/tree/dev/README/pictures/1_not_created.png)
 
 Изначально отобразится окно с предложением создать ориентированный или неориентированный граф. По нажатию кнопки "Create a graph" создастся граф, не содержащий ни одной вершины и ни одного ребра.
 
-![PIC_2](https://github.com/eugenepriymak/LAB_Graphs/tree/dev/README/pictures/2_created.jpg)
+![PIC_2](https://github.com/eugenepriymak/LAB_Graphs/tree/dev/README/pictures/2_created.png)
 
 Далее в левой части окна будет рисоваться граф (изображение можно увеличивать, по изображению можно перемещаться), справа будет ввод данных. Важно уточнить:
 
@@ -67,7 +67,7 @@ EDGES k a m n
 
 * Для начала обхода в ширину или в глубину в соответствующие поля необходимо ввести название вершины, из которой начинается обход, и нажать соответствующую кнопку. Далее можно будет переключаться по итерациям обхода.
 
-![PIC_3](https://github.com/eugenepriymak/LAB_Graphs/tree/dev/README/pictures/3_dfs.jpg)
+![PIC_3](https://github.com/eugenepriymak/LAB_Graphs/tree/dev/README/pictures/3_dfs.png)
 
 * Кнопка "Delete graph" используется для удаления данного графа целиком. Далее будет предложено создать новый граф.
 
