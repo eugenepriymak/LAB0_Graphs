@@ -1,0 +1,20 @@
+			 	 	 	 NODES
+	 a b hello world 1
+	
+	
+	
+	
+                          				one more node
+
+     EDGES
+
+    a b b a b h b hello b world 1
+node-name
+
+
+h b
+
+  NODES lnk m EDGES j b NODES EDGES NODES EDGES a k k n 1 n one b b b more one more node node more 1 one more 1 b
+ j j m
+
+EDGES lnk 8 8 11 something-else --- --- 11   		 lnk 11 11 8
