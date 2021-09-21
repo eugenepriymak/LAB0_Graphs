@@ -1,0 +1,3 @@
+graphviz==0.17
+PySide2==5.15.2
+shiboken2==5.15.2
