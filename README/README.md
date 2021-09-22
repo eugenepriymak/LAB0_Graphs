@@ -1,6 +1,10 @@
 # Визуализация DFS, BFS
 Приложение, визуализирующее обход графов в глубину (DFS) и в ширину (BFS). Поддерживается работа как с ориентированными, так и с неориентированными графами.
 
+![BFS](https://github.com/eugenepriymak/LAB_Graphs/tree/dev/README/pictures/BFS.gif)
+
+![DFS](https://github.com/eugenepriymak/LAB_Graphs/tree/dev/README/pictures/DFS.gif)
+
 ## Порядок запуска
 
 ### Windows
